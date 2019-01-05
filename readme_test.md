@@ -6,7 +6,7 @@ npm test
 当出现`学生xxx的成绩被添加`或打印出成绩单后，按回车回到主界面
 
 Tasking图
-![](http://ww1.sinaimg.cn/large/006cGFXaly1fyttmpni3hj30ss0fdmxy.jpg)
+![](http://ww1.sinaimg.cn/large/006cGFXaly1fyvpoe4kqkj30p50hejsb.jpg)
 
 思路：
 - 所有程序整体分为三大部分：命令行交互、添加学生、打印成绩单
